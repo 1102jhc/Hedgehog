@@ -1,5 +1,10 @@
 # Hedgehog
-고슴도치
+COMMON NAME: Hedgehog
+SCIENTIFIC NAME: Erinaceus europaeus
+TYPE: Mammals
+DIET: Carnivore
+SIZE: Head and body: 5 to 12 inches; tail: 1 to 2 inches
+WEIGHT: 14 to 39 ounces
 
 ##### 고슴도치 또는 아무르고슴도치(학명 : Erinaceus amurensis, Amur hedgehog)는 진무맹장목 고슴도치과의 야행성 포유동물이다. 자위(刺蝟)라고도 한다.
 
